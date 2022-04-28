@@ -1,0 +1,183 @@
+body{
+    font-family:'Playfair Display', serif;
+    font-size:16px ;
+    font-weight:400 ;
+    color: 0;
+    background-color: #FFFFFF;
+}
+header{
+  
+   background-color:rgb(255, 255, 255);
+   
+}
+.container{
+    overflow: hidden;
+    width:90%;
+    margin: 0 auto;
+}
+.logo{
+    margin-top: 12px;
+    width: 12%;
+    float:left;
+    
+    
+}
+.logo img{
+    width: 100%;
+}
+.menu{
+    width: 65%;
+float: right;
+}
+.menu ul{
+float: right;
+}
+.menu ul li{
+    list-style: none;
+    float: left;
+}
+.menu ul li a{
+    color: #626262;
+    display: inline-block;
+    margin: 0 50px;
+    margin-right: 0;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.menu ul li :last-child a{
+margin-right: 0;
+}
+.menu ul li a:hover{
+    border-bottom:1px solid  #626262;
+
+}
+.banner{
+    overflow:  hidden;
+    width: 90%;
+    margin: 0 auto;
+}
+.perfect{
+padding: 0px;
+margin-top: 50px;
+}
+
+.h2_content{
+    font-family:'Playfair Display', serif ;
+    font-size: 17px;
+    font-weight: 300;
+    text-transform: uppercase;
+    color: #b4ad9e;
+
+}
+.p_content{
+    font-family:'Playfair Display', serif;
+    margin-top: 14px;
+    margin-bottom: 23px;
+    font-size: 30px;
+    font-weight: 400;
+    
+    color:0;
+
+}
+.p_text{
+    margin: 0;
+    line-height: 24px;
+
+}
+.b40 p{
+    margin-top: 25px;
+    color: #626262;
+}
+.lifestyle{
+    padding: 0px;
+    margin-top: 50px;
+}
+.bolgs{
+    overflow: hidden;
+    float: left;
+    margin: 0 auto;
+
+}
+.single {
+    width: 41%;
+    float: left;
+    margin-right: 0px;
+    padding: 15px 47px;
+}
+
+.l_image img{
+    width: 100%;
+    
+}
+.single p h2 img :last-child{
+    margin-right: 0px;
+
+}
+.lifetyle2{
+    padding: 0px;
+    margin-top: 55px;
+}
+
+h2{
+    font-family:;
+    margin-top: 14px;
+    margin-bottom: 23px;
+    font-size: 30px;
+    font-weight: 400;
+    
+    color:0;
+}
+ .p_l{
+     text-transform: uppercase;
+ }
+ footer{
+    background-color: #e8e8ed;
+}
+
+.terms{
+    width: 60%;
+float: left;
+padding: 0px;
+}
+.terms ul{
+float: left;
+padding: 6px;
+}
+.terms ul li{
+    list-style: none;
+  float: right;
+  
+  
+}
+.terms ul li a{
+    font-size: 14px;
+    color: #777674;
+   text-decoration: none;
+   padding: 0 5px;
+   margin: 0;
+   
+  
+}
+.social{
+    width: 34%;
+float: right;
+padding: 0px;
+}
+.social ul{
+float: right;
+margin-top: 25px;
+padding: 0;
+}
+.social ul li{
+    list-style: none;
+  float: left;
+  
+  
+}
+.social ul li a{
+    font-size: 14px;
+    color: #b5b9be;
+   text-decoration: none;
+   padding: 0 5px;
+   margin: 0; 
+}
